@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-security-use-cases/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-security-use-cases/sitemap.xml
